@@ -1,4 +1,4 @@
-══════ Lab 11.3 — 67030359 Attawut Bualian ══════
+══════ Lab 11.3 — 67030359 Atthawut Buarean ══════
 เวลา: 2026-10-27 15:42:30   OpenSSL 4.1.0 23 Oct 2026 (Library: OpenSSL 4.1.0 23 Oct 2026)   mosquitto version 2.1.2
 
 ══════ 11-3.1 สร้าง Root CA / Server / Client Certificate ด้วย OpenSSL ══════
