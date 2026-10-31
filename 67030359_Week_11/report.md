@@ -182,13 +182,13 @@ Sending PUBLISH to auto-A22B014D-3590-5977-BB56-0359AA770359 (d0, q0, r0, m0, 'h
 ```
 
 <div align="center">
-  <img src="images/lab11_1_photo1.png" alt="Terminal Capture 1: Mosquitto Broker Verbose & Wildcards" width="700"/>
+  
   <br/>
   <b>รูปที่ 2: หน้าต่าง Terminal บันทึกผลการรัน Mosquitto Broker ในโหมด Verbose และการทดสอบ Publish/Subscribe Wildcards จริง (67030359)</b>
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="images/lab11_1_photo2.png" alt="Terminal Capture 2: Retained Messages & LWT Test" width="700"/>
+  
   <br/>
   <b>รูปที่ 5: หน้าต่าง Terminal บันทึกผลการทดสอบ Retained Message และการจำลองสัญญาณ LWT เมื่อตัดการเชื่อมต่อ (67030359)</b>
 </div>
