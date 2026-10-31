@@ -33,7 +33,7 @@
 
 ### ภาพถ่ายการต่อวงจรฮาร์ดแวร์จริง
 
-![รูปที่ 1: ภาพถ่ายการต่อวงจรฮาร์ดแวร์จริงบน Breadboard](images/lab11_hardware_circuit.jpg)  
+![รูปที่ 1: ภาพถ่ายการต่อวงจรฮาร์ดแวร์จริงบน Breadboard]()  
 _รูปที่ 1: ภาพถ่ายการต่อวงจรฮาร์ดแวร์จริงบน Breadboard เชื่อมต่อบอร์ด ESP32, LED และ Potentiometer_  
 > *(ให้นักศึกษาถ่ายภาพบอร์ด ESP32 เชื่อมต่อกับ LED ขา 2 และ Potentiometer ขา 34 บน Breadboard ของตนเองมาแนบในช่องนี้)*
 
@@ -60,7 +60,7 @@ allow_anonymous true
 log_type all
 ```
 
-![Mosquitto Broker Running](images/lab11_1_photo1.png)
+![Mosquitto Broker Running]()
 *รูปที่ 2: หน้าต่าง Terminal แสดงการเริ่มต้นทำงานของ Mosquitto Broker บนพอร์ต 1883*
 
 ---
