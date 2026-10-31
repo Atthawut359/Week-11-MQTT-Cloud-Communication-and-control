@@ -10,7 +10,7 @@ Bridge support available.
 Persistence support available.
 TLS support available.
 
-══════ Lab 11.1 — 67030359 Attawut Bualian  (2026-10-27 15:39) ══════
+══════ Lab 11.1 — 67030359 Atthawut Buarean  (2026-10-27 15:39) ══════
 
 ══════ 11-1.2 Publish/Subscribe + Wildcards (# และ +) ══════
 [Subscriber home/#] ได้รับ:
