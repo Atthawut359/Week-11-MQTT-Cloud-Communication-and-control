@@ -1,4 +1,4 @@
-══════ Lab 11.1 — 67030359 Attawut Bualian ══════
+══════ Lab 11.1 — 67030359 Atthawut Buarean ══════
 เวลา: 2026-10-27 15:39:55   Broker: mosquitto version 2.1.2
 
 ══════ 11-1.1 Broker เริ่มทำงาน ══════
